@@ -1,4 +1,5 @@
 // OpenGLCourseApp.cpp : Ce fichier contient la fonction 'main'. L'exécution du programme commence et se termine à cet endroit.
+// Following the course by Ben Cook on Udemy
 //
 #include <stdio.h>
 #include <string.h>
